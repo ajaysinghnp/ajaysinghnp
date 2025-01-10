@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh</h1>
 <h3 align="center">A passionate Developer and Data Engineering Student from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mentormaya&label=Profile%20views&color=0e75b6&style=flat" alt="mentormaya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" /> </p>
 
 <p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentormaya&show_icons=true&locale=en" alt="mentormaya" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentormaya&" alt="mentormaya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysinghnp&show_icons=true&locale=en" alt="ajaysinghnp" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghnp&" alt="ajaysinghnp" />
 </p>
 
 <table border=0>
