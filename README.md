@@ -1,36 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ajay Singh    <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" /></h1>
-<h3 align="center">A passionate Developer and Data Engineering Student from Nepal.</h3>
+# Hi 👋, I'm Ajay Singh    <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" />
+
+## A passionate Developer and Data Engineering Student from Nepal
+
 <p align="center">
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysinghnp&show_icons=true&locale=en" alt="ajaysinghnp" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghnp&" alt="ajaysinghnp" />
 </p>
-<table border=0>
-  <tr>
-    <td></td>
-    <td>
-    <ul>
-    <li>👋 Hi, I’m Ajay Singh "@ajaysinghnp</li>
-    <li>👀 I’m interested in Programming and Automation</li>
-    <li>🌱 I’m currently learning Artificial Intelligence</li>
-    <li>💞️ I’m looking to collaborate on Nepali Calendar</li>
-    <li>👨‍💻 All of my projects are available at my <a href="https://github.com/ajaysinghnp">GitHub Repo</a></li>
-    <li>📝 I regularly write articles on my <a href="https://ajaysingh.com.np/blog">Blog</a></li>
-    <li>📫 How to reach me <a href="mailto:admin@ajaysingh.com.np">Here</a></li>
-    <li>📄 Know about my experiences <a href="https://ajaysingh.com.np/resume"> Resume </a></li>
-    <li>⚡ Fun fact <span>funfact about me</span></li>
-  </ul>
-  </td>
-  <td>
-    <p align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghnp&show_icons=true&locale=en&layout=compact" alt="ajaysinghnp" />
-    </p>
-  </td>
-    <td></td>
-  </tr>
-</table>
 
-### Blogs posts
+<p align="center">
+  <span>
+      <li>👋 Hi, I’m Ajay Singh "@ajaysinghnp</li>
+      <li>👀 I’m interested in Programming and Automation</li>
+      <li>🌱 I’m currently learning Artificial Intelligence</li>
+      <li>💞️ I’m looking to collaborate on Nepali Calendar</li>
+      <li>👨‍💻 All of my projects are available at my <a href="https://github.com/ajaysinghnp">GitHub Repo</a></li>
+      <li>📝 I regularly write articles on my <a href="https://ajaysingh.com.np/blog">Blog</a></li>
+      <li>📫 How to reach me <a href="mailto:admin@ajaysingh.com.np">Here</a></li>
+      <li>📄 Know about my experiences <a href="https://ajaysingh.com.np/resume"> Resume </a></li>
+      <li>⚡ Fun fact <span>funfact about me</span></li>
+  </span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghnp&show_icons=true&locale=en&layout=compact" alt="ajaysinghnp" />
+</p>
+
+## Blogs posts
 <!-<li>BLOG-POST-LIST:START -->
 <!-<li>BLOG-POST-LIST:END -->
 
@@ -39,7 +32,7 @@
 <a href="https://codepen.io/mentormaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mentormaya" height="30" width="40" /></a>
 <a href="https://dev.to/mentormaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mentormaya" height="30" width="40" /></a>
 <a href="https://twitter.com/singh_ajaykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh_ajaykumar" height="30" width="40" /></a>
-<a href="https://twitter.com/singh_ajaykumar" target="blank"><img src="https://img.shields.io/twitter/follow/singh_ajaykumar?logo=twitter&style=for-the-badge" alt="singh_ajaykumar" /></a> 
+<a href="https://twitter.com/singh_ajaykumar" target="blank"><img src="https://img.shields.io/twitter/follow/singh_ajaykumar?logo=twitter&style=for-the-badge" alt="singh_ajaykumar" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,15 +42,14 @@
 <p><a href="https://www.buymeacoffee.com/ajaykumarsingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaykumarsingh" /></a><a href="https://ko-fi.com/ajaysinghnp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaysinghnp" /></a> </p><br><br>
 <p>Have a nice Day 🥰🥰</p>
 
-
 <!---
 
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mentormaya" alt="mentormaya" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ajaysinghnp" alt="ajaysinghnp" />
   </a> 
 </p>
 
-mentormaya/mentormaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ajaysinghnp/ajaysinghnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
