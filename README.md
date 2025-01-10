@@ -14,11 +14,11 @@
     <td></td>
     <td>
     <ul>
-    <li>👋 Hi, I’m Ajay Singh "@mentormaya</li>
+    <li>👋 Hi, I’m Ajay Singh "@ajaysinghnp</li>
     <li>👀 I’m interested in Programming and Automation</li>
     <li>🌱 I’m currently learning Artificial Intelligence</li>
     <li>💞️ I’m looking to collaborate on Nepali Calendar</li>
-    <li>👨‍💻 All of my projects are available at [https://github.com/mentormaya](https://github.com/mentormaya)</li>
+    <li>👨‍💻 All of my projects are available at [https://github.com/ajaysinghnp](https://github.com/mentormaya)</li>
     <li>📝 I regularly write articles on [https://ajaysingh.com.np](https://ajaysingh.com.np)</li>
     <li>📫 How to reach me <span>admin@ajaysingh.com.np</span>span></li>
     <li>📄 Know about my experiences [https://ajaysingh.com.np/resume](https://ajaysingh.com.np/resume)</li>
@@ -27,7 +27,7 @@
   </td>
   <td>
     <p align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentormaya&show_icons=true&locale=en&layout=compact" alt="mentormaya" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghnp&show_icons=true&locale=en&layout=compact" alt="ajaysinghnp" />
     </p>
   </td>
     <td></td>
