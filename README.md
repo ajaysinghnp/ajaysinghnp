@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ajay Singh</h1>
+<h1 align="center">Hi 👋, I'm Ajay Singh    <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" /></h1>
 <h3 align="center">A passionate Developer and Data Engineering Student from Nepal.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" /> </p>
-
 <p align="center">
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysinghnp&show_icons=true&locale=en" alt="ajaysinghnp" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghnp&" alt="ajaysinghnp" />
 </p>
-
 <table border=0>
   <tr>
     <td></td>
@@ -18,10 +14,10 @@
     <li>👀 I’m interested in Programming and Automation</li>
     <li>🌱 I’m currently learning Artificial Intelligence</li>
     <li>💞️ I’m looking to collaborate on Nepali Calendar</li>
-    <li>👨‍💻 All of my projects are available at my [GitHub Repo](https://github.com/ajaysinghnp)</li>
-    <li>📝 I regularly write articles on my [Blog](https://ajaysingh.com.np/blog)</li>
-    <li>📫 How to reach me <span>admin@ajaysingh.com.np</span></li>
-    <li>📄 Know about my experiences [Resume](https://ajaysingh.com.np/resume)</li>
+    <li>👨‍💻 All of my projects are available at my <a href="https://github.com/ajaysinghnp">GitHub Repo</a></li>
+    <li>📝 I regularly write articles on my <a href="https://ajaysingh.com.np/blog">Blog</a></li>
+    <li>📫 How to reach me <a href="mailto:admin@ajaysingh.com.np">Here</a></li>
+    <li>📄 Know about my experiences <a href="https://ajaysingh.com.np/resume"> Resume </a></li>
     <li>⚡ Fun fact <span>funfact about me</span></li>
   </ul>
   </td>
