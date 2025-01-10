@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh</h1>
 <h3 align="center">A passionate Developer and Data Engineering Student from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajaysinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghnp" /> </p>
 
 <p align="center">
   &nbsp;
@@ -18,10 +18,10 @@
     <li>👀 I’m interested in Programming and Automation</li>
     <li>🌱 I’m currently learning Artificial Intelligence</li>
     <li>💞️ I’m looking to collaborate on Nepali Calendar</li>
-    <li>👨‍💻 All of my projects are available at [https://github.com/ajaysinghnp](https://github.com/mentormaya)</li>
-    <li>📝 I regularly write articles on [https://ajaysingh.com.np](https://ajaysingh.com.np)</li>
-    <li>📫 How to reach me <span>admin@ajaysingh.com.np</span>span></li>
-    <li>📄 Know about my experiences [https://ajaysingh.com.np/resume](https://ajaysingh.com.np/resume)</li>
+    <li>👨‍💻 All of my projects are available at my [GitHub Repo](https://github.com/ajaysinghnp)</li>
+    <li>📝 I regularly write articles on my [Blog](https://ajaysingh.com.np/blog)</li>
+    <li>📫 How to reach me <span>admin@ajaysingh.com.np</span></li>
+    <li>📄 Know about my experiences [Resume](https://ajaysingh.com.np/resume)</li>
     <li>⚡ Fun fact <span>funfact about me</span></li>
   </ul>
   </td>
