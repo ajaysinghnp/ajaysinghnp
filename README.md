@@ -82,15 +82,6 @@ Loading...
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-      alt="appwrite"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -163,24 +154,6 @@ Loading...
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -217,55 +190,10 @@ Loading...
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"
-      alt="hadoop"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
       width="40"
       height="40"
     />
@@ -319,33 +247,6 @@ Loading...
     <img
       src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
       alt="jekyll"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-      alt="kotlin"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
       width="40"
       height="40"
     />
@@ -436,24 +337,6 @@ Loading...
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      alt="opencv"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
@@ -512,28 +395,10 @@ Loading...
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
-      alt="qt"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
       width="40"
       height="40"
     />
